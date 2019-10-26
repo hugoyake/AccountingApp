@@ -1,0 +1,27 @@
+{
+    "lists":[{
+        "event":"Education",
+        "icon":"school"
+    },{
+        "event":"Work",
+        "icon":"work"
+    },{
+        "event":"Lover&Friends",
+        "icon":"favorite"
+    },{
+        "event":"Daily",
+        "icon":"calender_tody"
+    },{
+        "event":"Entertainment",
+        "icon":"videogame_asset"
+    },{
+        "event":"Interest",
+        "icon":"sentiment_very_satisfied"
+    },{
+        "event":"Exercises",
+        "icon":"watch"
+    },{
+        "event":"Others",
+        "icon":"edit"
+    }]
+}

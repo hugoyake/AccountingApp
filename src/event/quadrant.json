@@ -1,0 +1,15 @@
+{
+    "lists":[{
+        "quadrant":"Critical and Immediate",
+        "color":"red"
+    },{
+        "quadrant":"Critical but not Immediate",
+        "color":"orange"
+    },{
+        "quadrant":"Not Critical but Immediate",
+        "color":"blue"
+    },{
+        "quadrant":"Uncategorized",
+        "color":"green"
+    }]
+}
