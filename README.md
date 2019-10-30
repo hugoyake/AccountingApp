@@ -27,3 +27,6 @@ Hi，這是一個記帳app，是我用來練習vuex的，並加入vuetify及char
 ![image](https://github.com/hugoyake/AccountingApp/blob/master/picture/openChart.png)
 
 它會開啟一個相當簡單的圖表，分別代表事件和重要性跑出的圓餅圖。接著點右上角的 ***RELOAD*** 按鈕，圓餅圖就會刷新，更新成包含新建條目的狀態。
+
+
+![image](https://github.com/hugoyake/AccountingApp/blob/master/picture/chart.png)
