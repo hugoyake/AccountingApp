@@ -1,6 +1,8 @@
 # AccountingApp
 Hi，這是一個記帳app，是我用來練習vuex的，並加入vuetify及chartjs，以簡化專案的css需求
 
+連結：https://accountingapp-311207.df.r.appspot.com/?fbclid=IwAR1_PENXh2t81SgoWzZ_FPCS6v27SxOKwtFl17mT6FsVXomBIedyo19qYMc#/
+
 > cd project
 > 
 >  npm install
