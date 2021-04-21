@@ -88,8 +88,6 @@ export default {
   },
   data(){
     return {
-     
-
       valid: true,
       newAmount: '',
       amountRules:  [
